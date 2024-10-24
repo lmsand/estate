@@ -55,10 +55,9 @@ export default function Home() {
           place with ease
         </h1>
         <div className='text-gray-400 text-xs sm:text-sm'>
-          Sanders Estate is the best place to find your next perfect place to
-          live.
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.
           <br />
-          We have a wide range of properties for you to choose from.
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.
         </div>
         <Link
           to={'/search'}
